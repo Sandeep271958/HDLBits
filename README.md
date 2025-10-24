@@ -26,3 +26,7 @@ This repository includes solutions across all major HDLBits categories:
 |  **Sequential Logic** | Flip-flops, counters, shift registers, finite-state machines |
 |  **Reading Simulations** | Interpreting waveform outputs to find circuit behavior |
 |  **Writing Testbenches** | Creating simulation environments for verifying designs |
+
+Each Folder/Subsection contains a Verilog file (.v) with the exact problem name as in the HDLBits site.
+You can test these modules using **Icarus Verilog**, **ModelSim**, or **Vivado**:
+
